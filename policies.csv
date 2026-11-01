@@ -1,0 +1,11 @@
+name,state,premium,months_paid,payment_method
+Ade,Lagos,1500,6,mobile_money
+Bola,Oyo,2000,2,cash
+Chidi,Enugu,1200,12,mobile_money
+Dayo,Lagos,1800,1,cash
+Emeka,Anambra,1500,8,bank_transfer
+Funke,Lagos,2500,2,mobile_money
+Garba,Kano,1000,10,cash
+Halima,Kano,1200,4,mobile_money
+Ifeoma,Enugu,2000,1,bank_transfer
+Jide,Oyo,1500,7,mobile_money

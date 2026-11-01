@@ -1,0 +1,5 @@
+name,state,premium,months_paid,payment_method,total_paid,at_risk
+Bola,Oyo,2000,2,cash,4000,True
+Dayo,Lagos,1800,1,cash,1800,True
+Funke,Lagos,2500,2,mobile_money,5000,True
+Ifeoma,Enugu,2000,1,bank_transfer,2000,True
